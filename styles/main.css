@@ -50,3 +50,11 @@ header nav ul {
     justify-content: space-between;
 }
 
+header nav ul li {
+    display: inline-block;
+
+}
+
+header nav ul li a {
+    color:#fff
+}
