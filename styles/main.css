@@ -218,7 +218,7 @@ header nav ul li.btn a:hover {
 
 /* Характеристики проекта */
 .features {
-    background: url('https://github.com/lgotfrid/gaming/blob/7251fe758bec80f0f85858b4a52190a92e0cf64a/img/bg.png') no-repeat center center fixed;
+    background: url('../img/bg.png') no-repeat center center fixed;
     background-size: cover;
     padding: 80px 0;
 }
