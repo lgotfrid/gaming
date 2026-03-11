@@ -143,6 +143,10 @@ header nav ul li.btn a:hover {
 }
 
 /* Секция с играми */
+.trending{
+    padding-top: 50px;
+}
+
 .trending h3 {
     font-weight: 600;
     font-size: 31px;
@@ -156,3 +160,4 @@ header nav ul li.btn a:hover {
     float: right;
     display: block;
 }
+
