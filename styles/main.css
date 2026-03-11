@@ -51,6 +51,7 @@ header nav ul {
     list-style: none;
     display: flex;
     justify-content: space-between;
+    z-index: 2;
 }
 
 header nav ul li {
@@ -93,6 +94,7 @@ header nav ul li.btn a:hover {
 .hero {
     padding-bottom: 100px;
     position: relative;
+    z-index: 1;
 }
 
 .hero--info {
