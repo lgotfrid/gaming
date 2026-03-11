@@ -216,7 +216,7 @@ header nav ul li.btn a:hover {
 
 /* Характеристики проекта */
 .features {
-    background: url('img/feature_bg.png') no-repeat center center fixed;
+    background: url('/img/feature_bg.png') no-repeat center center fixed;
     block-size: cover;
     padding: 80px 0;
 }
