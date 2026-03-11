@@ -59,6 +59,16 @@ header nav ul li a {
     color:#fff;
 }
 
-header nav ul li:not(.active) :not(.btn) a:hover {
+header nav ul li:not(.active):not(.btn) a:hover {
     border-bottom: 5px solid #DC7000;
+}
+
+header nav ul li.btn a {
+    background: #fa9021;
+    padding: 9px 17px;
+    border-radius: 5px;
+}
+
+header nav ul li.btn a:hover {
+    background: #a02604;
 }
