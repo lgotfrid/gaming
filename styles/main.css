@@ -58,3 +58,7 @@ header nav ul li {
 header nav ul li a {
     color:#fff;
 }
+
+header nav ul li:not(.active) :not(.btn) a:hover {
+    border-bottom: 5px solid #DC7000;
+}
