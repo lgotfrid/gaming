@@ -417,14 +417,14 @@ header nav ul li.btn a:hover, .email .block button:hover {
     background: #1C140F;
 }
 
-.work-info h4 {
+.work-info .container h4 {
     font-size: 16px;
     color: #fff;
     text-align: center;
     width: 530px;
 }
 
-.work-info h2 {
+.work-info .container h2 {
     font-size: 28px;
     font-weight: 600;
     color: #fff;
@@ -432,14 +432,10 @@ header nav ul li.btn a:hover, .email .block button:hover {
     width: 530px;
 }
 
-.work-info p{
+.work-info .container p{
    font-size: 16px;
     color: #fff;
     text-align: center; 
-}
-
-.work-text {
-    float: right;
 }
 
 /* Страница контакты */
