@@ -336,5 +336,6 @@ header nav ul li.btn a:hover, .email .block button:hover {
     padding: 13px 17px;
     position: relative;
     z-index: 2;
+    color: #fff;
 }
 
