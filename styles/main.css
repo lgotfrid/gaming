@@ -417,16 +417,27 @@ header nav ul li.btn a:hover, .email .block button:hover {
     background: #1C140F;
 }
 
-.work-info h4 {
+.work-info img {
 
+}
+
+.work-info h4 {
+    font-size: 16px;
+    color: #fff;
+    text-align: center;
 }
 
 .work-info h2 {
-
+    font-size: 28px;
+    font-weight: 600;
+    color: #fff;
+    text-align: center;
 }
 
 .work-info p{
-
+   font-size: 16px;
+    color: #fff;
+    text-align: center; 
 }
 
 /* Страница контакты */
