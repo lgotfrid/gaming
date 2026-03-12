@@ -451,12 +451,12 @@ header nav ul li.btn a:hover, .email .block button:hover {
     width: 600px;
 }
 
-.feedback form inline {
+.feedback form input {
     display: flex;
     justify-content: space-between;
 }
 
-.feedback form inline > div {
+.feedback form input > div {
     width: 50%;
 }
 
