@@ -489,6 +489,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
 }
 
 .feedback form button {
+    padding: 10px 50px;
     background: #dc7000;
     border-radius: 5px;
     border: 0;
