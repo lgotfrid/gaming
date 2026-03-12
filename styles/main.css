@@ -413,10 +413,14 @@ header nav ul li.btn a:hover, .email .block button:hover {
     background: #192a1d;
 }
 
-.work-info{
+.work-info {
     background: #1C140F;
     display: flex;
     justify-content: space-between;
+}
+
+.work-info > div {
+    float: right;
 }
 
 .work-info img {
