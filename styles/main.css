@@ -413,6 +413,22 @@ header nav ul li.btn a:hover, .email .block button:hover {
     background: #192a1d;
 }
 
+.work-info{
+    background: #1C140F;
+}
+
+.work-info h4 {
+
+}
+
+.work-info h2 {
+
+}
+
+.work-info p{
+
+}
+
 /* Страница контакты */
 .hero-contacts h1 {
     text-align: center;
