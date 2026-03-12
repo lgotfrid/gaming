@@ -350,3 +350,8 @@ footer .blocks {
     display: flex;
     justify-content: space-between;
 }
+
+footer .blocks p {
+    width: 300px;
+    margin: 15px 0;
+}
