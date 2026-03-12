@@ -419,8 +419,8 @@ header nav ul li.btn a:hover, .email .block button:hover {
     justify-content: space-between;
 }
 
-.work-info > div {
-    float: right;
+.work-info .work-inf {
+    
 }
 
 .work-info img {
