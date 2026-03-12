@@ -25,6 +25,7 @@ img {
 .wrapper {
   background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(26,14,1,1) 100%);
   width: 100%;
+  overflow-x: hidden;
 }
 
 .container {
@@ -343,9 +344,13 @@ header nav ul li.btn a:hover, .email .block button:hover {
 }
 
 /* Страница про нас */
+.hero-about {
+    position: relative;
+}
+
 .hero-about .info {
     width: 500px;
-    padding: 50px 0;
+    padding: 250px 0;
 }
 
 .hero-about .info h1 {
@@ -355,6 +360,12 @@ header nav ul li.btn a:hover, .email .block button:hover {
 
 .hero-about .info .btn {
     margin-top: 20px;
+}
+
+.hero-about img {
+    position: absolute;
+    right: -150px;
+    top: 0;
 }
 
 
