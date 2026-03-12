@@ -122,7 +122,8 @@ header nav ul li.btn a:hover, .email .block button:hover {
     margin: 30px 0;
 }
 
-.hero--info .btn {
+.hero--info .btn,
+.hero-about .info .btn {
     background: #fa8305;
     color: #fff;
     font-size: 17px;
@@ -132,7 +133,8 @@ header nav ul li.btn a:hover, .email .block button:hover {
     transition: all 500ms ease;
 }
 
-.hero--info .btn:hover {
+.hero--info .btn:hover,
+.hero-about .info .btn:hover {
     cursor: pointer;
     transform: scale(1.1);
 }
@@ -339,6 +341,18 @@ header nav ul li.btn a:hover, .email .block button:hover {
     z-index: 2;
     color: #fff;
 }
+
+/* Страница про нас */
+.hero-about .info {
+    width: 500px;
+    padding: 50px 0;
+}
+
+.hero-about .info h1 {
+    margin-bottom: 15px;
+    font-size: 30px;
+}
+
 
 /* footer */
 footer {
