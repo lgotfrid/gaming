@@ -425,6 +425,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
     font-size: 16px;
     color: #fff;
     text-align: center;
+    width: 530px;
 }
 
 .work-info h2 {
@@ -432,6 +433,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
     font-weight: 600;
     color: #fff;
     text-align: center;
+    width: 530px;
 }
 
 .work-info p{
