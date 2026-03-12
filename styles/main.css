@@ -479,6 +479,31 @@ header nav ul li.btn a:hover, .email .block button:hover {
     margin-bottom: 20px;
 }
 
+.feedback form .one-line {
+    width: 96%;
+}
+
+.feedback form textarea {
+    resize: none;
+    height: 200px;
+}
+
+.feedback form button {
+    background: #dc7000;
+    border-radius: 5px;
+    border: 0;
+    float: right;
+    cursor: pointer;
+    color: #fff;
+    transition: all 500ms ease;
+}
+
+.feedback form button:hover {
+    background: #b01414;
+}
+
+
+
 
 /* footer */
 footer {
