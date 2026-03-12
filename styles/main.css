@@ -353,6 +353,10 @@ header nav ul li.btn a:hover, .email .block button:hover {
     font-size: 30px;
 }
 
+.hero-about .info .btn {
+    margin-top: 20px;
+}
+
 
 /* footer */
 footer {
@@ -393,3 +397,4 @@ footer hr {
 footer > p {
     text-align: center;
 }
+
