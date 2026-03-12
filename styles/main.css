@@ -415,6 +415,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
 
 .work-info {
     background: #1C140F;
+    display: flex;
 }
 
 .work-info .container h4 {
