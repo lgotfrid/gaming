@@ -417,12 +417,17 @@ header nav ul li.btn a:hover, .email .block button:hover {
     position: relative;
     background: #1C140F;
     height: 603px;
+    display: block;
 }
 
-.work-info .container img {
+.work-info img {
     position: absolute;
     left: 8%;
     bottom: 0;
+}
+
+.work-text {
+    float: right;
 }
 
 .work-text h4 {
