@@ -492,13 +492,13 @@ header nav ul li.btn a:hover, .email .block button:hover {
     color: #fff;
     outline: none;
     border: 0;
-    border-radius: 5px;
+    border-radius: 10px;
     width: 400px;
     height: 50px;
     font-family: 'poppins', sans-serif;
     font-weight: 400;
     padding-top: 74px;
-    align-content: center;
+    justify-content: center;
 }
 
 /* Страница контакты */
