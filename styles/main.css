@@ -413,20 +413,14 @@ header nav ul li.btn a:hover, .email .block button:hover {
 }
 
 .work-info {
-    position: relative;
     background: #1C140F;
     height: 603px;
-}
-
-.workinf {
-   display: flex;
+    display: flex;
    justify-content: space-between; 
 }
 
 .work-info img {
-    position: absolute;
-    left: 110px;
-    bottom: 0;
+    margin-bottom: 0;
 }
 
 .work-text h4 {
