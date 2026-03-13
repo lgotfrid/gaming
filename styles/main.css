@@ -508,6 +508,10 @@ header nav ul li.btn a:hover, .email .block button:hover {
     margin-left: 60px;
 }
 
+main .container {
+    grid-column: 2;
+}
+
 /* Страница контакты */
 .hero-contacts h1 {
     text-align: center;
