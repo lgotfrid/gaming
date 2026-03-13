@@ -455,6 +455,32 @@ header nav ul li.btn a:hover, .email .block button:hover {
     margin-top: 14px;
 }
 
+.our-team {
+    padding: 80px 0;
+}
+
+.our-team h2 {
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+
+.our-team .blocks {
+    display: flex;
+    justify-content: space-between;
+}
+
+.our-team .blocks .block {
+    width: 25%;
+    border-radius: 10px;
+    padding: 50px 35px;
+    background: #1C140F;
+}
+
+.our-team .blocks .block h3 {
+    font-size: 20px;
+    margin: 20px 0;
+}
+
 /* Страница контакты */
 .hero-contacts h1 {
     text-align: center;
