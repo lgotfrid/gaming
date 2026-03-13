@@ -488,6 +488,8 @@ header nav ul li.btn a:hover, .email .block button:hover {
 /* News */
 
 form .search {
+    display: flex;
+    justify-content: space-between;
     background: #1C140F;
     color: #fff;
     outline: none;
