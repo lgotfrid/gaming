@@ -461,7 +461,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
 
 .our-team h2 {
     font-size: 25px;
-    margin-bottom: 40px;
+    margin-bottom: 55px;
 }
 
 .our-team .blocks {
@@ -480,6 +480,10 @@ header nav ul li.btn a:hover, .email .block button:hover {
 .our-team .blocks .block h3 {
     font-size: 20px;
     margin: 20px 0;
+}
+
+.our-team .blocks .block p {
+    color: #E8E8E8;
 }
 
 /* Страница контакты */
