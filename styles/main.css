@@ -412,19 +412,22 @@ header nav ul li.btn a:hover, .email .block button:hover {
     background: #192a1d;
 }
 
-.work-info {
+.work-info .container {
     background: #1C140F;
     height: 603px;
     display: flex;
-    justify-content: space-between;
+    justify-content: center ;
 }
 
 .work-info img {
     margin-top: 113px;
+   
 }
 
 .info-text {
     width: 536px;
+    margin-left: 95px;
+    grid-row-gap: 14px;
 }
 
 .info-text h4 {
@@ -535,8 +538,6 @@ header nav ul li.btn a:hover, .email .block button:hover {
 .feedback form button:hover {
     background: #b01414;
 }
-
-
 
 
 /* footer */
