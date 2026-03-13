@@ -473,6 +473,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
     border-radius: 20px;
     padding: 35px 85px;
     background: #1C140F;
+    text-align: center;
 }
 
 .our-team .blocks .block h3 {
