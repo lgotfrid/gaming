@@ -419,7 +419,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
 
 .work-info .container {
     display: flex;
-    justify-content: center ;
+    justify-content: space-between ;
 }
 
 .work-info img {
