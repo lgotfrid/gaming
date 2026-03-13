@@ -430,10 +430,9 @@ header nav ul li.btn a:hover, .email .block button:hover {
 }
 
 .info-text h4 {
-    margin-top: 113px;
+    margin-top: 134px;
     font-size: 16px;
     color: #fff;
-    text-align: center;
     width: 530px;
 }
 
@@ -441,14 +440,12 @@ header nav ul li.btn a:hover, .email .block button:hover {
     font-size: 28px;
     font-weight: 600;
     color: #fff;
-    text-align: center;
     width: 530px;
 }
 
 .info-text p {
    font-size: 16px;
     color: #fff;
-    text-align: center; 
 }
 
 /* Страница контакты */
