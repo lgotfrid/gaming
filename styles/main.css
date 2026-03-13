@@ -510,7 +510,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
 
 .main {
     display: block;
-    grid-column: 2;
+    column-count: 2;
 }
 
 /* Страница контакты */
