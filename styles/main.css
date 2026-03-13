@@ -442,6 +442,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
 .info-text h2 {
     font-size: 28px;
     font-weight: 600;
+    line-height: 157%;
     color: #fff;
     width: 530px;
     margin-top: 14px;
@@ -449,6 +450,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
 
 .info-text p {
     font-size: 16px;
+    line-height: 200%;
     color: #fff;
     margin-top: 14px;
 }
