@@ -422,7 +422,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
 
 .work-info img {
     position: absolute;
-    left: 0;
+    left: 50px;
     bottom: 0;
 }
 
