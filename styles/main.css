@@ -424,14 +424,15 @@ header nav ul li.btn a:hover, .email .block button:hover {
     float: left;
 }
 
-.work-text h4 {
+.work-info h4 {
+    margin-top: 113px;
     font-size: 16px;
     color: #fff;
     text-align: center;
     width: 530px;
 }
 
-.work-text h2 {
+.work-info h2 {
     font-size: 28px;
     font-weight: 600;
     color: #fff;
@@ -439,7 +440,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
     width: 530px;
 }
 
-.work-text p {
+.work-info p {
    font-size: 16px;
     color: #fff;
     text-align: center; 
