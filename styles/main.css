@@ -488,18 +488,17 @@ header nav ul li.btn a:hover, .email .block button:hover {
 /* News */
 
 .search {
-    background: #fff;
+    background: #1C140F;
+    color: #fff;
     outline: none;
     border: 0;
     border-radius: 5px;
-    width: 380px;
+    width: 4000px;
+    height: 50px;
     font-family: 'poppins', sans-serif;
     font-weight: 400;
-    padding: 20px 30px;
-    position: relative;
-    right: -100px;
-    z-index: 1;
-    padding-right: 120px;
+    padding-top: 74px;
+    align-content: center;
 }
 
 /* Страница контакты */
