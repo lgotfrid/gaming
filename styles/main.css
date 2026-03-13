@@ -417,7 +417,8 @@ header nav ul li.btn a:hover, .email .block button:hover {
     position: relative;
     background: #1C140F;
     height: 603px;
-    display: block;
+    display: flexk;
+    justify-content: space-around;
 }
 
 .work-info img {
@@ -427,7 +428,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
 }
 
 .work-text {
-    float: right;
+
 }
 
 .work-text h4 {
