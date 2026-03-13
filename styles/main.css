@@ -501,7 +501,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
 }
 
 .search::placeholder {
-    text-align: center;
+    text-align: left;
 }
 
 /* Страница контакты */
