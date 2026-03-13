@@ -413,6 +413,8 @@ header nav ul li.btn a:hover, .email .block button:hover {
 }
 
 .work-info {
+    width: 1400px;
+    margin: 0 0;
     position: relative;
     background: #1C140F;
     height: 603px;
