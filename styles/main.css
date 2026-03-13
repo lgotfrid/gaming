@@ -412,9 +412,12 @@ header nav ul li.btn a:hover, .email .block button:hover {
     background: #192a1d;
 }
 
-.work-info .container {
+.work-info{
     background: #1C140F;
     height: 603px;
+}
+
+.work-info .container {
     display: flex;
     justify-content: center ;
 }
