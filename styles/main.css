@@ -488,7 +488,6 @@ header nav ul li.btn a:hover, .email .block button:hover {
 /* News */
 
 .search {
-    display: block;
     background: #1C140F;
     color: #fff;
     outline: none;
@@ -499,7 +498,6 @@ header nav ul li.btn a:hover, .email .block button:hover {
     font-family: 'poppins', sans-serif;
     font-weight: 400;
     padding-top: 74px;
-    justify-content: space-between;
 }
 
 .search::placeholder {
