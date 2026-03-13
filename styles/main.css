@@ -470,8 +470,9 @@ header nav ul li.btn a:hover, .email .block button:hover {
 }
 
 .our-team .blocks .block {
-    width: 20%;
-    border-radius: 10px;
+    width: 295px;
+    height: 255px;
+    border-radius: 20px;
     padding: 50px 35px;
     background: #1C140F;
 }
