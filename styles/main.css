@@ -524,6 +524,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
     width: 590px;
     height: 300px;
     border-radius: 20px;
+    padding-bottom: 20px;
 }
 
 
