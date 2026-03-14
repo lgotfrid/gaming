@@ -519,6 +519,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
 
 .main .news-article {
     display: inline-block;
+    margin-right: 72px;
 }
 
 .main .news-article img {
