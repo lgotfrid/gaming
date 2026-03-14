@@ -509,12 +509,12 @@ header nav ul li.btn a:hover, .email .block button:hover {
 
 .main {
     float: left;
-    width: 65%;
+    max-width: 590px;
 }
 
 .aside {
     float: right;
-    width: 30%;
+    max-width: 620px;
 }
 
 .main .news-article {
@@ -522,8 +522,8 @@ header nav ul li.btn a:hover, .email .block button:hover {
 }
 
 .main .news-article img {
-    width: 590px;
-    height: 300px;
+    /* width: 590px;
+    height: 300px; */
     border-radius: 20px;
     padding-bottom: 20px;
 }
