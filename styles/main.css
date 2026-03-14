@@ -518,14 +518,12 @@ header nav ul li.btn a:hover, .email .block button:hover {
 .main .news-article {
     display: block;
     justify-content: space-around;
-    text-align: left;
 }
 
-.main .news-article img {
-    margin-bottom: 20px;
-}
 
 .main .news-article span {
+    margin-top: 20px;
+    margin-right: 20px;
     padding: 10px 30px;
     background: #2351F5;
     color: #FFFCFC;
