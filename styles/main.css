@@ -505,23 +505,23 @@ header nav ul li.btn a:hover, .email .block button:hover {
     margin-left: 60px;
 }
 
-.container .main {
+ .main {
     float: left;
     width: 590px;
 }
 
-.container .aside {
+ .aside {
     float: right;
     width: 620px;
 }
 
-.container .main .news-article {
+ .main .news-article {
     display: inline-block;
     margin-right: 72px;
-    margin-left: 55px;
+    margin-left: 110px;
 }
 
-.container .main .news-article img {
+ .main .news-article img {
     /* width: 590px;
     height: 300px; */
     border-radius: 20px;
@@ -529,7 +529,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
 }
 
 
-.container .main .news-article span {
+.main .news-article span {
     margin-right: 20px;
     padding: 10px 30px;
     background: #2351F5;
@@ -537,14 +537,14 @@ header nav ul li.btn a:hover, .email .block button:hover {
     line-height: 187%;
 }
 
-.container .main .news-article h1 {
+ .main .news-article h1 {
     margin-top: 20px;
     max-width: 575px;
     font-size: 30px;
     font-weight: 600;
 }
 
-.container .main .news-article p {
+ .main .news-article p {
     margin-top: 30px;
     max-width: 530px;
     font-size: 17px;
@@ -552,7 +552,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
     line-height: 207%;
 }
 
-.container .main hr {
+ .main hr {
     margin: 90px auto;
     color: #A5A5A5;
     height: 0,7px;
