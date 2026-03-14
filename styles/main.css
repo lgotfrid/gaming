@@ -519,7 +519,6 @@ header nav ul li.btn a:hover, .email .block button:hover {
 
 .main .news-article {
     display: block;
-    flex-direction: column;
 }
 
 .main .news-article img {
