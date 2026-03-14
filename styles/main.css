@@ -507,7 +507,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
 
 .content {
     margin-bottom: 100px;
-    display: inline-block;
+    display: block;
 }
 
  .main {
