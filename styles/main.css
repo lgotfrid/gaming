@@ -497,7 +497,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
     height: 50px;
     font-family: 'poppins', sans-serif;
     font-weight: 400;
-    margin: 74px auto 100px auto;
+    margin: 74px 520px 100px 520px;
     display: flex;
     justify-content: center;
 }
