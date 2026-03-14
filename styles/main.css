@@ -498,6 +498,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
     font-family: 'poppins', sans-serif;
     font-weight: 400;
     margin: 74px auto 100px auto;
+    justify-content: center;
 }
 
 .search::placeholder {
