@@ -487,7 +487,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
 
 /* News */
 
-.container .hero-contacts input {
+.hero-contacts input {
     background: #1C140F;
     color: #fff;
     outline: none;
@@ -517,7 +517,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
 
  .main .news-article {
     display: inline-block;
-    margin-right: 72px;
+    margin-right: 72px; 
     margin-left: 110px;
 }
 
