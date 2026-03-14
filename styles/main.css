@@ -515,8 +515,21 @@ header nav ul li.btn a:hover, .email .block button:hover {
     width: 30%;
 }
 
+.main .news-article {
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
+}
+
 .main .news-article img {
     margin-bottom: 20px;
+}
+
+.main .news-article span {
+    padding: 10px 30px;
+    background: #2351F5;
+    color: #FFFCFC;
+    line-height: 187%;
 }
 
 /* Страница контакты */
