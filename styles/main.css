@@ -517,7 +517,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
 
 .main .news-article {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     text-align: left;
 }
 
