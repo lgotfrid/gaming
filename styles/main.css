@@ -516,7 +516,8 @@ header nav ul li.btn a:hover, .email .block button:hover {
 }
 
 .main .news-article {
-    display: block;
+    display: flex;
+    flex-wrap: wrap
 }
 
 .main .news-article img {
