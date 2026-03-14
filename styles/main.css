@@ -487,9 +487,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
 
 /* News */
 
-.container form .search {
-    display: flex;
-    justify-content: space-between;
+.container .search {
     background: #1C140F;
     color: #fff;
     outline: none;
@@ -499,8 +497,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
     height: 50px;
     font-family: 'poppins', sans-serif;
     font-weight: 400;
-    margin-top: 74px;
-    margin-bottom: 100px;
+    margin: 74px auto 100px auto;
 }
 
 .search::placeholder {
