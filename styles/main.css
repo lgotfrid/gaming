@@ -505,7 +505,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
     margin-left: 60px;
 }
 
-.main {
+.container .main {
     float: left;
     width: 590px;
 }
