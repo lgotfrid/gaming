@@ -552,6 +552,12 @@ header nav ul li.btn a:hover, .email .block button:hover {
     line-height: 207%;
 }
 
+.main .news-article hr {
+    margin: 90px auto;
+    color: #A5A5A5;
+    height: 0,7px;
+}
+
 /* Страница контакты */
 .hero-contacts h1 {
     text-align: center;
