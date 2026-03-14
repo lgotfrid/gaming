@@ -508,10 +508,12 @@ header nav ul li.btn a:hover, .email .block button:hover {
     margin-left: 60px;
 }
 
-main {
-    display: flex;
-    flex-direction: column; 
-    flex-wrap: wrap
+.main {
+    float: right;
+}
+
+.aside {
+    float: left;
 }
 
 /* Страница контакты */
