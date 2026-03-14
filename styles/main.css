@@ -520,6 +520,12 @@ header nav ul li.btn a:hover, .email .block button:hover {
     justify-content: space-around;
 }
 
+.main .news-article img {
+    width: 590px;
+    height: 300px;
+    border-radius: 20px;
+}
+
 
 .main .news-article span {
     margin-top: 20px;
