@@ -530,7 +530,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
 
 
 .main .news-article span {
-    margin-top: 20px;
+    width: 165px;
     margin-right: 20px;
     padding: 10px 30px;
     background: #2351F5;
