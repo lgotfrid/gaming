@@ -344,6 +344,14 @@ header nav ul li.btn a:hover, .email .block button:hover {
 }
 
 /* Страница про нас */
+.navi {
+    text-align: center;
+    line-height: 200%;
+}
+.navi a {
+    color: #E47500;
+}
+
 .hero-about {
     position: relative;
 }
