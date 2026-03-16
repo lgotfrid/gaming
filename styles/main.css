@@ -486,9 +486,6 @@ header nav ul li.btn a:hover, .email .block button:hover {
 }
 
 /* News */
-.hero-contacts > div {
-    position: relative;
-}
 
 .hero-contacts input {
     background: #1C140F;
@@ -501,11 +498,12 @@ header nav ul li.btn a:hover, .email .block button:hover {
     font-family: 'poppins', sans-serif;
     font-weight: 400;
     margin: 74px 520px 100px 520px;
+    position: relative;
 }
 
 
 .icon {
-    position: absolute;
+    position: relative;
     max-width: 15px;
     max-height: 15px;
     top: auto;
