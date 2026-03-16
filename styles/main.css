@@ -514,6 +514,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
 }
 
 .aside {
+    margin-left: 70px;;
     width: 620px;
 }
 .main .news-article {
