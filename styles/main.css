@@ -358,6 +358,10 @@ header nav ul li.btn a:hover, .email .block button:hover {
     color: #E47500;
 }
 
+.navi-about a {
+    color: #E47500;
+}
+
 .hero-about {
     position: relative;
 }
