@@ -348,6 +348,12 @@ header nav ul li.btn a:hover, .email .block button:hover {
     text-align: center;
     line-height: 200%;
 }
+
+.navi-about {
+    text-align: left;
+    line-height: 200%;
+    margin-bottom: 40px;
+}
 .navi a {
     color: #E47500;
 }
