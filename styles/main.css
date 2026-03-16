@@ -512,12 +512,12 @@ header nav ul li.btn a:hover, .email .block button:hover {
 
 .main {
     padding-left: 60px;
-    width: 590px;
+    width: 50%;
 }
 
 .aside {
     margin-left: 75px;
-    width: 620px;
+    width: 45%;
 }
 
 .main .news-article img {
@@ -565,12 +565,11 @@ header nav ul li.btn a:hover, .email .block button:hover {
 }
 
 .news-aside {
-    display: inline-block;
+    display: flex;
     
 }
 
 .news-aside img {
-    float: left;
     margin-bottom: 60px;
     margin-right: 31px;
 }
