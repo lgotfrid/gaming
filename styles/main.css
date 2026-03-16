@@ -508,8 +508,9 @@ button.icon {
     top: -136px;
     left: 545px;
     background: url(../img/search.png);
-    background-repeat: no-repeat
-
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: none;
 }
 
 .content {
