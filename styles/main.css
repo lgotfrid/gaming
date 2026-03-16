@@ -510,18 +510,13 @@ header nav ul li.btn a:hover, .email .block button:hover {
 }
 
  .main {
-    margin-left: 55px;
+    padding-left: 60px;
     width: 590px;
 }
 
 .aside {
-    margin-left: 70px;
+    margin-left: 75px;
     width: 620px;
-}
-.main .news-article {
-    display: inline-block;
-    margin-right: 72px; 
-    margin-left: 110px;
 }
 
 .main .news-article img {
