@@ -528,7 +528,15 @@ header nav ul li.btn a:hover, .email .block button:hover {
 }
 
 
-.span-blue {
+.main span {
+    margin-right: 20px;
+    padding: 10px 30px;
+    background: #2351F5;
+    color: #FFFCFC;
+    line-height: 187%;
+}
+
+.news-aside span {
     margin-right: 20px;
     padding: 10px 30px;
     background: #2351F5;
@@ -555,6 +563,12 @@ header nav ul li.btn a:hover, .email .block button:hover {
     margin: 90px auto;
     color: #A5A5A5;
     height: 0,7px;
+}
+
+.news-aside {
+    display: grid;
+    grid-template-columns: 20% 75%;
+    justify-content: space-between;
 }
 
 
