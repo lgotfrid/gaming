@@ -557,8 +557,8 @@ header nav ul li.btn a:hover, .email .block button:hover {
     height: 0,7px;
 }
 
-.news-aside {
-    display: flex;
+.news-aside img {
+float: left;
 }
 
 /* Страница контакты */
