@@ -520,7 +520,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
 }
 
 .main .news-article img {
-    width: 590px;
+    width: 100%;
     height: 300px;
     border-radius: 20px;
     padding-bottom: 20px;
