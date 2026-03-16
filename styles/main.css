@@ -505,7 +505,9 @@ header nav ul li.btn a:hover, .email .block button:hover {
 
 button.icon {
     position: relative;
-    top: -136px;
+    width: 15px;
+    height: 15px;
+    top: -135px;
     left: 545px;
     background: url(../img/search.png);
     background-repeat: no-repeat;
