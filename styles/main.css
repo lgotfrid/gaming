@@ -507,6 +507,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
 
 .content {
     display: flex;
+    justify-content: space-between;
 }
 
  .main {
