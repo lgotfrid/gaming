@@ -502,17 +502,19 @@ header nav ul li.btn a:hover, .email .block button:hover {
 }
 
 
-.icon {
+button.icon {
     position: relative;
-    max-width: 15px;
-    max-height: 15px;
-    top: auto;
-    left: 15px;
+    width: 15px;
+    height: 15px;
+    top: -136px;
+    left: 545px;
+    background: url(../img/search.svg);
 }
 
 .search::placeholder {
+
     text-align: left;
-    margin-left: 60px;
+    left: 60px;
 }
 
 .content {
