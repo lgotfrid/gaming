@@ -500,17 +500,16 @@ header nav ul li.btn a:hover, .email .block button:hover {
     margin: 74px 520px 100px 520px;
     position: relative;
     padding-left: 60px;
-    z-index: 1;
 }
 
 
-span.icon {
+button.icon {
     position: relative;
-    padding: 15px;
     top: -136px;
     left: 545px;
     background: url(../img/search.png);
-    z-index: 2;
+    background-repeat: no-repeat
+
 }
 
 .content {
