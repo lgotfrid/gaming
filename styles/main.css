@@ -506,17 +506,14 @@ header nav ul li.btn a:hover, .email .block button:hover {
 }
 
 .content {
-    margin-bottom: 100px;
-    display: block;
+    display: flex;
 }
 
  .main {
-    float: left;
     width: 590px;
 }
 
 .aside {
-    float: right;
     width: 620px;
 }
 .main .news-article {
