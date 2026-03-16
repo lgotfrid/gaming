@@ -512,8 +512,7 @@ button.icon {
 }
 
 .search::placeholder {
-
-    text-align: left;
+    position: relative;
     left: 60px;
 }
 
