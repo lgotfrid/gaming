@@ -507,10 +507,10 @@ header nav ul li.btn a:hover, .email .block button:hover {
 
 .content {
     display: flex;
+    margin-left: 55px;
 }
 
  .main {
-    margin-left: 55px;
     width: 590px;
 }
 
@@ -525,8 +525,8 @@ header nav ul li.btn a:hover, .email .block button:hover {
 }
 
 .main .news-article img {
-    /* width: 590px;
-    height: 300px; */
+    width: 590px;
+    height: 300px;
     border-radius: 20px;
     padding-bottom: 20px;
 }
