@@ -511,8 +511,8 @@ header nav ul li.btn a:hover, .email .block button:hover {
 }
 
 .main {
-    padding-left: 60px;
     width: 50%;
+    padding-left: 60px;
 }
 
 .aside {
@@ -535,7 +535,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
     line-height: 187%;
 }
 
- .span-blue  {
+.span-blue  {
     margin-right: 16px;
     padding: 8px 26px;
     background: #2351F5;
