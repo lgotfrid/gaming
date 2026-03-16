@@ -507,10 +507,10 @@ header nav ul li.btn a:hover, .email .block button:hover {
 
 .content {
     display: flex;
-    margin-left: 55px;
 }
 
  .main {
+    margin-left: 55px;
     width: 590px;
 }
 
