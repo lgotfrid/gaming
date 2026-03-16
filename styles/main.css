@@ -499,6 +499,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
     font-weight: 400;
     margin: 74px 520px 100px 520px;
     position: relative;
+    padding-left: 60px;
 }
 
 
@@ -509,10 +510,6 @@ button.icon {
     top: -136px;
     left: 545px;
     background: url(../img/search.svg);
-}
-
-.search::placeholder {
-    padding-left: 60px;
 }
 
 .content {
