@@ -486,6 +486,9 @@ header nav ul li.btn a:hover, .email .block button:hover {
 }
 
 /* News */
+.hero-contacts > div {
+    position: relative;
+}
 
 .hero-contacts input {
     background: #1C140F;
@@ -500,8 +503,13 @@ header nav ul li.btn a:hover, .email .block button:hover {
     margin: 74px 520px 100px 520px;
 }
 
+
 .input-with-icon {
-    background: url('../img/search.svg') no-repeat 15px center;
+    position: absolute;
+    max-width: 15px;
+    max-height: 15px;
+    top: auto;
+    left: 15px;
 }
 
 .search::placeholder {
