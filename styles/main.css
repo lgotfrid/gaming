@@ -673,6 +673,7 @@ button.icon {
 }
 
 .container.advantages-video {
+display: flex;
 width: 1184px;
 height: 367px;
 margin-top: 120px;
