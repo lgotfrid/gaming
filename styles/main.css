@@ -693,7 +693,9 @@ left: 865px;
 top: 713px;
 }
 
-
+.container.advantages-video > ul {
+list-style-image: url('../img/ul.svg');
+}
 
 
 /* Страница контакты */
