@@ -693,7 +693,7 @@ left: 865px;
 top: 713px;
 }
 
-.container.advantages-video > ul {
+.container.advantages-video > div > ul {
 list-style-image: url('../img/ul.svg');
 }
 
