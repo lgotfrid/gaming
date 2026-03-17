@@ -666,6 +666,11 @@ button.icon {
     margin-left: 36px;
 }
 
+.container.advantages > hr {
+    height: 125px;
+    margin: auto 0;
+}
+
 /* Страница контакты */
 .hero-contacts h1 {
     text-align: center;
