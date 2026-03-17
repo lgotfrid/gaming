@@ -675,8 +675,7 @@ button.icon {
 .container.advantages-video {
 width: 1184px;
 height: 367px;
-left: 109px;
-top: 713px;
+margin-top: 120px;
 }
 
 .container.advantages-video img {
