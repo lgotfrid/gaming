@@ -650,6 +650,19 @@ button.icon {
     display: flex;
     justify-content: center;
     gap: 110px;
+    background: #1C140F;
+    width: 1140px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.card-advantages {
+    display: flex;
+    align-items: center;
+}
+
+.card-advantages > div {
+    margin-left: 36px;
 }
 
 /* Страница контакты */
