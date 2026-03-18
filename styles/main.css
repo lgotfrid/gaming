@@ -726,6 +726,7 @@ font-size: 14px;
 
 
 .advantages-post {
+    margin-top: 190px;
     position: relative;
     left: 110px;
     display: flex;
@@ -733,7 +734,8 @@ font-size: 14px;
     width: 1170px;
 }
 
-.advantages-postr {    
+.advantages-postr { 
+    margin-top: 190px;   
     position: relative;
     left: 110px;
     display: flex;
