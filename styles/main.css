@@ -646,33 +646,54 @@ button.icon {
 
 /* Преимущества */
 
-.container.advantages {
-    display: flex;
-    justify-content: center;
-    gap: 100px;
-    background: #1C140F;
-    width: 1140px;
-    height: 200px;
-    border-radius: 10px;
-    margin-top: 45px;
+.advantages {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 1140px;
+  height: 200px;
+  background: #1C140F;
+  padding: 0 91px;
 }
 
-.cards-advantages {    
-    display: flex;
-    justify-content: space-between;
+.advantages > hr {
+width: 0px;
+height: 125px;
+border: 2px solid #EEEFF2;
 }
+
 .card-advantages {
-    display: flex;
-    padding: 0 20px;
+ display: flex;
+ align-items: center;
 }
 
-.card-advantages > div {
-    margin-left: 36px;
+.card-advantages div {
+  margin-left: 36px;
 }
 
-.container.advantages > hr {
-    height: 125px;
-    margin: auto 0;
+.card-advantages h2 {
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+color: #FFFFFF;
+}
+
+.card-advantages p {
+width: 91px;
+height: 30px;
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+color: #FFFFFF;
+}
+
+.card-advantages img {
+width: 55px;
+height: 55px;
 }
 
 .container.advantages-video {
