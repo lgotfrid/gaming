@@ -727,11 +727,11 @@ font-size: 14px;
 
 .advantages-post {
     position: relative;
-    left: 55px;
-    display: grid;
-    grid-column: 2;
-    column-gap: 140px;
-    width: 1170px;}
+    left: 110px;
+    display: flex;
+    column-gap: 75px;
+    width: 1170px;
+}
 
 /* Страница контакты */
 .hero-contacts h1 {
