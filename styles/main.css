@@ -733,7 +733,16 @@ font-size: 14px;
     width: 1170px;
 }
 
-.advantages-post > img {
+.advantages-postr {    
+    position: relative;
+    left: 110px;
+    display: flex;
+    flex-direction: row-reverse;
+    column-gap: 75px;
+    width: 1170px;
+}
+
+.advantages-post img {
     max-width: 496px;
     max-height: 489px;
 }
