@@ -728,7 +728,9 @@ font-size: 14px;
 .advantages-post {
     position: relative;
     left: 55px;
-    display: block;
+    display: grid;
+    grid-column: 2;
+    column-gap: 140px;
     width: 1170px;}
 
 /* Страница контакты */
