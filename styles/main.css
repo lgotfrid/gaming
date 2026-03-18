@@ -733,6 +733,11 @@ font-size: 14px;
     width: 1170px;
 }
 
+.advantages-post > img {
+    max-width: 496px;
+    max-height: 489px;
+}
+
 /* Страница контакты */
 .hero-contacts h1 {
     text-align: center;
