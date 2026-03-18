@@ -649,12 +649,11 @@ button.icon {
 .advantages {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
   width: 1140px;
   height: 200px;
   background: #1C140F;
-  padding: 0 91px;
 }
 
 .advantages > hr {
