@@ -649,6 +649,7 @@ button.icon {
 .advantages {
   display: flex;
   flex-direction: row;
+  justify-content: space-around;
   align-items: center;
   width: 1140px;
   height: 200px;
