@@ -779,6 +779,9 @@ font-size: 14px;
 }
 
 .reviews {
+    position: relative;
+    top: 88px;
+    left: 110px;
     width: 1300px;
     height: 590px;
 }
