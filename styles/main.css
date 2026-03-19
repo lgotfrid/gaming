@@ -805,6 +805,12 @@ font-size: 14px;
     color: #fff;
 }
 
+.reviews-blocks {
+    margin-top: 68px;
+    display: flex;
+    justify-content: space-between;
+}
+
 .reviews-block-active {
     border: 2px solid #dc7000;
     border-radius: 10px;
