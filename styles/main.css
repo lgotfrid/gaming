@@ -802,6 +802,20 @@ font-size: 14px;
     color: #fff;
 }
 
+.rewiews-block-active {
+    border: 2px solid #dc7000;
+    border-radius: 10px;
+    width: 400px;
+    height: 230px;
+    background: #0f0901;
+}
+
+.rewiews-block {
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    width: 400px;
+    height: 230px;
+}
 
 
 
