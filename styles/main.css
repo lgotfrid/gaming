@@ -288,6 +288,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
 /* Нижняя часть */
 .email {
     padding-bottom: 120px;
+    max-width: 1170px;
 }
 
 .email h3 {
