@@ -772,6 +772,37 @@ font-size: 14px;
     font-weight: 400;
 }
 
+.rewiews-container {
+    width: 1440px;
+    height: 738px;
+    background: #1c140f;
+}
+
+.reviews {
+    width: 1300px;
+    height: 590px;
+}
+
+.reviews h1 {
+    font-family: rubik;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 143%;
+    text-align: center;
+    color: #fff;
+}
+
+.reviews p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 188%;
+    text-align: center;
+    color: #fff;
+}
+
+
+
+
 /* Страница контакты */
 .hero-contacts h1 {
     text-align: center;
