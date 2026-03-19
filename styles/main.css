@@ -773,7 +773,7 @@ font-size: 14px;
 }
 
 .reviews-container {
-    width: 1440px;
+    width: 100%;
     height: 738px;
     background: #1c140f;
 }
