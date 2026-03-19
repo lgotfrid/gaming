@@ -749,11 +749,25 @@ font-size: 14px;
     max-height: 489px;
 }
 
-.advantages-post span {
+.advantages-post span,
+.advantages-postr span {
     position: relative;
     background: #DC7000;
     padding: 13px 45px;
     top: 46px;
+}
+
+.advantages-post h1,
+.advantages-postr h1 {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.advantages-post p,
+.advantages-postr p {
+    margin-top: 43px;    
+    font-size: 17px;
+    font-weight: 400;
 }
 
 /* Страница контакты */
