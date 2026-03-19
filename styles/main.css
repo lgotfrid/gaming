@@ -784,6 +784,7 @@ font-size: 14px;
 }
 
 .reviews h1 {
+    max-width: 450px;
     font-family: rubik;
     font-weight: 500;
     font-size: 35px;
@@ -793,6 +794,7 @@ font-size: 14px;
 }
 
 .reviews p {
+    max-width: 555px;
     font-weight: 400;
     font-size: 14px;
     line-height: 188%;
