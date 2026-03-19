@@ -802,7 +802,7 @@ font-size: 14px;
     color: #fff;
 }
 
-.rewiews-block-active {
+.reviews-block-active {
     border: 2px solid #dc7000;
     border-radius: 10px;
     width: 400px;
@@ -810,7 +810,7 @@ font-size: 14px;
     background: #0f0901;
 }
 
-.rewiews-block {
+.reviews-block {
     border: 2px solid #ddd;
     border-radius: 10px;
     width: 400px;
