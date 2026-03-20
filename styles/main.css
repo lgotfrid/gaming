@@ -780,11 +780,10 @@ font-size: 14px;
 }
 
 .reviews {
-    position: relative;
-    top: 88px;
-    left: 110px;
-    width: 1300px;
-    height: 590px;
+    margin-top: 170px;
+    width: 1440px;
+    height: 738px;
+    background: #1c140f;
 }
 
 .reviews h1 {
