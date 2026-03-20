@@ -774,16 +774,16 @@ font-size: 14px;
 
 .reviews-container {
     margin-top: 170px;
-    width: 100%;
+    width: 1440px;
     height: 738px;
     background: #1c140f;
 }
 
 .reviews {
-    margin-top: 170px;
-    width: 1440px;
-    height: 738px;
-    background: #1c140f;
+    margin-top: 68px;
+    margin-left: 110px;
+    width: 1300px;
+    height: 590px;
 }
 
 .reviews h1 {
@@ -807,13 +807,13 @@ font-size: 14px;
     color: #fff;
 }
 
-.reviews .reviews-blocks {
+.reviews-blocks {
     margin-top: 68px;
     display: flex;
     justify-content: space-between;
 }
 
-.reviews .reviews-block-active {
+.reviews-block-active {
     border: 2px solid #dc7000;
     border-radius: 10px;
     width: 400px;
@@ -821,7 +821,7 @@ font-size: 14px;
     background: #0f0901;
 }
 
-.reviews .reviews-block {
+.reviews-block {
     border: 2px solid #ddd;
     border-radius: 10px;
     width: 400px;
