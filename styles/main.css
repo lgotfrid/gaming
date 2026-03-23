@@ -893,7 +893,7 @@ font-size: 14px;
 }
 
 .btn-list {
-    display: flex;
+    display: inline-block;
 }
 
 /* Страница контакты */
