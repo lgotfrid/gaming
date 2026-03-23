@@ -848,7 +848,7 @@ font-size: 14px;
 
 .author-info h3 {
   margin: 0;
-  font-style: Rubik;
+  font-family: Rubik;
   font-size: 18px;
   line-height: 30px;
   font-weight: 500;
@@ -856,7 +856,7 @@ font-size: 14px;
 
 .author-info p {
   margin: 0;
-  font-style: Rubik;
+  font-family: Rubik;
   font-size: 14px;
   line-height: 30px;
   font-weight: 400;
@@ -865,7 +865,7 @@ font-size: 14px;
 
 .reviews-block-active p,
 .reviews-block p {
-  font-style: Poppins;
+  font-family: Poppins;
   font-size: 14px;
   line-height: 187.5%;
   font-weight: 400;
