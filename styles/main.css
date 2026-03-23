@@ -797,7 +797,7 @@ font-size: 14px;
 
 .reviews_article h1 {
     font-family: rubik;
-    font-weight: 500;
+    font-weight: 700;
     font-size: 35px;
     line-height: 143%;
 }
@@ -888,13 +888,10 @@ font-size: 14px;
 .reviews-pagination {
     display: flex;
     flex-basis: 30% 30%;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
 }
 
-.btn-list {
-    display: flex;
-}
 
 
 /* Страница контакты */
