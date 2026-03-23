@@ -794,6 +794,7 @@ font-size: 14px;
     color: #fff;
   }
   
+}
 
 .reviews_article h1 {
     font-family: rubik;
@@ -812,6 +813,7 @@ font-size: 14px;
     margin-top: 68px;
     display: flex;
     justify-content: space-between;
+  color: #fff;
 }
 
 .reviews-block-active {
@@ -827,6 +829,36 @@ font-size: 14px;
     border-radius: 10px;
     width: 400px;
     height: 230px;
+}
+
+.reviews-info {
+  display: flex;
+  flex-basis: 15% 25% 50%;
+  align-items: center;
+  padding: 20px;
+}
+
+.author-info  {
+  margin-left: 20px;
+}
+
+.author-info h3,
+.author-info p {
+  margin: 0;
+}
+
+.stars {
+text-align: right;
+flex-grow: 1;
+}
+
+.stars:after { 
+  display: inline-block;
+  content: "★"; 
+  font-size: 16px; 
+  letter-spacing: 0px; 
+  color: #FEA250;
+  margin-left:10px;
 }
 
 
