@@ -794,7 +794,6 @@ font-size: 14px;
     color: #fff;
   }
   
-}
 
 .reviews_article h1 {
     font-family: rubik;
@@ -855,6 +854,8 @@ font-size: 14px;
 .reviews-block-active p {
   font-style: poppins;
   font-size: 14px;
+  line-height: 187.5%;
+  font-weight: 500;
 }
 
 .stars {
