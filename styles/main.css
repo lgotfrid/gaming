@@ -885,6 +885,11 @@ flex-grow: 1;
   margin-left:10px;
 }
 
+.reviews-pagination {
+  display: flex;
+  justify-content: space-between;
+}
+
 
 
 
