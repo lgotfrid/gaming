@@ -846,16 +846,29 @@ font-size: 14px;
   margin-left: 20px;
 }
 
-.author-info h3,
-.author-info p {
+.author-info h3 {
   margin: 0;
+  font-style: Rubik;
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: 500;
 }
 
-.reviews-block-active p {
-  font-style: poppins;
+.author-info p {
+  margin: 0;
+  font-style: Rubik;
+  font-size: 14px;
+  line-height: 30px;
+  font-weight: 400;
+  color: #4F5665;
+}
+
+.reviews-block-active p,
+.reviews-block p {
+  font-style: Poppins;
   font-size: 14px;
   line-height: 187.5%;
-  font-weight: 500;
+  font-weight: 400;
 }
 
 .stars {
