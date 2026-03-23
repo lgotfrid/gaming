@@ -886,7 +886,7 @@ flex-grow: 1;
 }
 
 .reviews-pagination {
-  display: flex;
+  display: inline-flex;
   justify-content: space-between;
 }
 
