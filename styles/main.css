@@ -785,26 +785,27 @@ font-size: 14px;
     width: 1300px;
     height: 590px;
 }
+  
+  .reviews_article {
+    max-width: 400px;
+    text-align: center;
+    padding-top: 68px;
+    margin: 0 auto;
+    color: #fff;
+  }
+  
 
-.reviews h1 {
-    margin: 88px auto 0 auto;
-    max-width: 450px;
+.reviews_article h1 {
     font-family: rubik;
     font-weight: 500;
     font-size: 35px;
     line-height: 143%;
-    text-align: center;
-    color: #fff;
 }
 
-.reviews p {
-    margin: 20px auto 0 auto;
-    max-width: 555px;
+.reviews_article p {
     font-weight: 400;
     font-size: 14px;
     line-height: 188%;
-    text-align: center;
-    color: #fff;
 }
 
 .reviews-blocks {
