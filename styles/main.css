@@ -788,6 +788,7 @@ font-size: 14px;
   
   .reviews_article {
     display: block;
+    text-align: center;
     padding-top: 68px;
     margin: 0 auto;
     color: #fff;
