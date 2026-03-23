@@ -831,11 +831,16 @@ font-size: 14px;
     height: 230px;
 }
 
+.view {
+  max-width: 340px;
+  margin: 30px;
+}
+
 .reviews-info {
   display: flex;
   flex-basis: 15% 25% 50%;
   align-items: center;
-  padding: 20px;
+  
 }
 
 .author-info  {
@@ -845,6 +850,11 @@ font-size: 14px;
 .author-info h3,
 .author-info p {
   margin: 0;
+}
+
+.reviews-block-active p {
+  font-style: poppins;
+  font-size: 14px;
 }
 
 .stars {
@@ -860,6 +870,7 @@ flex-grow: 1;
   color: #FEA250;
   margin-left:10px;
 }
+
 
 
 
