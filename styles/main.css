@@ -892,6 +892,9 @@ font-size: 14px;
     align-items: center;
 }
 
+.btn-list {
+    display: flex;
+}
 
 /* Страница контакты */
 .hero-contacts h1 {
