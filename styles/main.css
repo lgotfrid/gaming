@@ -328,7 +328,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
     position: relative;
     right: -100px;
     z-index: 1;
-    padding-right: 120px;
+    padding-right: 90px;
 }
 
 .email .block input::placeholder {
