@@ -892,7 +892,7 @@ font-size: 14px;
 }
 
 .btn-list {
-    text-align: right;
+    display: flex;
     flex-grow: 1;
 }
 
