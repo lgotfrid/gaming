@@ -896,6 +896,7 @@ font-size: 14px;
     padding-top: 60px;
     display: inline-flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .navigation-arrows {
