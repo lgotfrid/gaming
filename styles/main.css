@@ -893,6 +893,7 @@ font-size: 14px;
 }
 
 .btn-list {
+    padding-top: 60px;
     display: inline-flex;
     justify-content: space-between;
 }
