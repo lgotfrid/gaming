@@ -893,7 +893,8 @@ font-size: 14px;
 }
 
 .btn-list {
-    display: inline-block;
+    display: inline-flex;
+    justify-content: space-between;
 }
 
 .navigation-arrows {
