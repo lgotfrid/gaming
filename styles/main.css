@@ -901,7 +901,7 @@ font-size: 14px;
 
 .navigation-arrows {
   display: flex;
-  gap: 20px; /* Расстояние между стрелками — 20 px */
+  column-gap: 20px; /* Расстояние между стрелками — 20 px */
   align-items: center;
 }
 
